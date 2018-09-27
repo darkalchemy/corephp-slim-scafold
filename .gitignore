@@ -1,4 +1,5 @@
 /vendor/
+*.lock
 /logs/*
 !/logs/README.md
 .idea/
